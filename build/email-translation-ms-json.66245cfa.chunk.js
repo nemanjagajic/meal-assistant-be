@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeal_assistant_api=self.webpackChunkmeal_assistant_api||[]).push([[6784],{73559:s=>{s.exports={}}}]);
